@@ -38,7 +38,7 @@ My primary interests include:
 
 # 🌐 Live Portfolio
 
-## 👉 YOUR_PORTFOLIO_LINK
+## 👉 (https://ankit-dev.lovable.app/)
 
 Explore the complete portfolio to discover:
 
@@ -182,7 +182,7 @@ https://leetcode.com/u/srv_ankit_/
 
 🌐 Portfolio
 
-YOUR_PORTFOLIO_LINK
+https://ankit-dev.lovable.app/
 
 ---
 
